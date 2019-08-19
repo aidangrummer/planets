@@ -1,4 +1,5 @@
 This is my text file called mars.txt
 This is the second line.
 This is the third line.
-modified a fourth line.
+This is the fourth line.
+modified a fifth line.
